@@ -39,3 +39,5 @@ Condição: "Quando uma operação for igual a Delete Virtual Machine"
 Ação: enviar e-mail ou webhook
 
 Nome da regra: alerta-exclusao-vm
+
+
